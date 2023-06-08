@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning programming , trading , aosp 
 - 🌱  B.sc and M.sc Mathematics  graduated  
-<h2>Hello folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">priyanshu jangid!</h2>
+<h2>Hello folks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">priyanshu jangid</h2>
 
 
 <a href="https://t.me/thepriyanshujangid">
