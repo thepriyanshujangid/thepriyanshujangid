@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning programming , trading , aosp 
-- 🌱  B.sc and M.sc Mathematics  graduated  
+- 🌱 Completed My B.sc  in 2020  
 
 <a href="https://t.me/thepriyanshujangid">
   <img align="left" alt="priyanshu's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
